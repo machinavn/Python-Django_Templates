@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#manage.py is a script that helps with management of the site. With it we will be able to start a web server on our computer without installing anything else, amongst other things.
+
+
 import os
 import sys
 
